@@ -116,7 +116,7 @@ public class SFDCStopTeamController {
                 'https://trailblazer.me/id/ggaikwad'
             )
         );
-
+/*
         sfdcstopContributors.add(
             new Contributor(
                 'Dayan Naskar',
@@ -125,7 +125,7 @@ public class SFDCStopTeamController {
                 'https://trailblazer.me/id/dnaskar'
             )
         );
-
+*/
         sfdcstopContributors.add(
             new Contributor(
                 'Third Developer',
